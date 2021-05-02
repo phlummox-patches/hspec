@@ -1,11 +1,5 @@
 cabal-version: >= 1.10
 
--- This file has been generated from package.yaml by hpack version 0.29.5.
---
--- see: https://github.com/sol/hpack
---
--- hash: 18722f32fa5f70fec923fb16bae44075fdcc96cfab7622d6d9146d22fb7faed5
-
 name:             hspec-core
 version:          2.5.5
 x-revision: 2
@@ -61,7 +55,6 @@ library
       Test.Hspec.Core.Formatters
       Test.Hspec.Core.QuickCheck
       Test.Hspec.Core.Util
-  other-modules:
       Test.Hspec.Core.Clock
       Test.Hspec.Core.Compat
       Test.Hspec.Core.Config
